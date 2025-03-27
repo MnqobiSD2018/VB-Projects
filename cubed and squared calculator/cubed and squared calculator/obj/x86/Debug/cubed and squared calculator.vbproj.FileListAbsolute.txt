@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\bin\Debug\cubed and squared calculator.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\bin\Debug\cubed and squared calculator.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\bin\Debug\cubed and squared calculator.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\obj\x86\Debug\cubed and squared calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\obj\x86\Debug\cubed and squared calculator.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\obj\x86\Debug\cubed and squared calculator.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\cubed and squared calculator\cubed and squared calculator\obj\x86\Debug\cubed and squared calculator.pdb
