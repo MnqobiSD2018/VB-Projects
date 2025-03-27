@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\bin\Debug\My Digital Clock.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\bin\Debug\My Digital Clock.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\bin\Debug\My Digital Clock.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\obj\x86\Debug\My_Digital_Clock.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\obj\x86\Debug\My_Digital_Clock.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\obj\x86\Debug\My Digital Clock.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\obj\x86\Debug\My Digital Clock.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\obj\x86\Debug\My Digital Clock.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Digital Clock\obj\x86\Debug\My Digital Clock.pdb

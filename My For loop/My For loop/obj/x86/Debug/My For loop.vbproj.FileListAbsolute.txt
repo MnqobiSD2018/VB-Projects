@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\bin\Debug\My For loop.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\bin\Debug\My For loop.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\bin\Debug\My For loop.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\obj\x86\Debug\My_For_loop.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\obj\x86\Debug\My_For_loop.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\obj\x86\Debug\My For loop.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\obj\x86\Debug\My For loop.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\obj\x86\Debug\My For loop.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My For loop\obj\x86\Debug\My For loop.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\bin\Debug\My For Loop Icons.exe
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\bin\Debug\My For Loop Icons.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\bin\Debug\My For Loop Icons.xml
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\obj\x86\Debug\My_For_Loop_Icons.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\obj\x86\Debug\My_For_Loop_Icons.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\obj\x86\Debug\My For Loop Icons.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\obj\x86\Debug\My For Loop Icons.exe
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\obj\x86\Debug\My For Loop Icons.xml
+C:\Users\admin\documents\visual studio 2010\Projects\My For Loop Icons\My For Loop Icons\obj\x86\Debug\My For Loop Icons.pdb
