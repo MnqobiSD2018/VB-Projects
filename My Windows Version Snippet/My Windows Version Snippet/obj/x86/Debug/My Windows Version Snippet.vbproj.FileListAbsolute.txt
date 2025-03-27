@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\bin\Debug\My Windows Version Snippet.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\bin\Debug\My Windows Version Snippet.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\bin\Debug\My Windows Version Snippet.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\obj\x86\Debug\My_Windows_Version_Snippet.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\obj\x86\Debug\My_Windows_Version_Snippet.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\obj\x86\Debug\My Windows Version Snippet.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\obj\x86\Debug\My Windows Version Snippet.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\obj\x86\Debug\My Windows Version Snippet.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Windows Version Snippet\obj\x86\Debug\My Windows Version Snippet.pdb
