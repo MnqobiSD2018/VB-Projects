@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\bin\Debug\practise 6.exe
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\bin\Debug\practise 6.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\bin\Debug\practise 6.xml
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\obj\x86\Debug\practise 6.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\obj\x86\Debug\practise 6.exe
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\obj\x86\Debug\practise 6.xml
+C:\Users\admin\documents\visual studio 2010\Projects\practise 6\practise 6\obj\x86\Debug\practise 6.pdb
