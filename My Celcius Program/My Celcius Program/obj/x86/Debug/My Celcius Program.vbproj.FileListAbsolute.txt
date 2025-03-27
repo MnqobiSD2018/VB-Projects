@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\bin\Debug\My Celcius Program.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\bin\Debug\My Celcius Program.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\bin\Debug\My Celcius Program.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\obj\x86\Debug\My_Celcius_Program.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\obj\x86\Debug\My_Celcius_Program.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\obj\x86\Debug\My Celcius Program.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\obj\x86\Debug\My Celcius Program.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\obj\x86\Debug\My Celcius Program.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Celcius Program\obj\x86\Debug\My Celcius Program.pdb

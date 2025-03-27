@@ -1,0 +1,18 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\bin\Debug\My Debugging Error Program.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\bin\Debug\My Debugging Error Program.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\bin\Debug\My Debugging Error Program.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\obj\x86\Debug\My_Debugging_Error_Program.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\obj\x86\Debug\My_Debugging_Error_Program.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.exe
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.xml
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\bin\Debug\My Debugging Error Program.exe
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\bin\Debug\My Debugging Error Program.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\bin\Debug\My Debugging Error Program.xml
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\obj\x86\Debug\My_Debugging_Error_Program.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\obj\x86\Debug\My_Debugging_Error_Program.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\My Debugging Error Program\My Debugging Error Program\obj\x86\Debug\My Debugging Error Program.vbproj.GenerateResource.Cache
