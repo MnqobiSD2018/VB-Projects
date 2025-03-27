@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\bin\Debug\Advanced Math Operators.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\bin\Debug\Advanced Math Operators.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\bin\Debug\Advanced Math Operators.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\obj\x86\Debug\Advanced_Math_Operators.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\obj\x86\Debug\Advanced_Math_Operators.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\obj\x86\Debug\Advanced Math Operators.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\obj\x86\Debug\Advanced Math Operators.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\obj\x86\Debug\Advanced Math Operators.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Advanced Math Operators\obj\x86\Debug\Advanced Math Operators.pdb

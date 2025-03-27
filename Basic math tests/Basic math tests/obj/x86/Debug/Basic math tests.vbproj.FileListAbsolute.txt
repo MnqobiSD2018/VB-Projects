@@ -1,0 +1,12 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\bin\Debug\Basic math tests.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\bin\Debug\Basic math tests.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\bin\Debug\Basic math tests.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\obj\x86\Debug\Basic_math_tests.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\obj\x86\Debug\Basic_math_tests.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\obj\x86\Debug\Basic math tests.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\obj\x86\Debug\Basic math tests.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\obj\x86\Debug\Basic math tests.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Basic math tests\obj\x86\Debug\Basic math tests.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Basic math tests\Basic math tests\obj\x86\Debug\Basic math tests.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Basic math tests\Basic math tests\obj\x86\Debug\Basic math tests.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Basic math tests\Basic math tests\obj\x86\Debug\Basic math tests.pdb
