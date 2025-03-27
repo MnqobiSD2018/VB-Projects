@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\bin\Debug\Try.__.__.CATCH.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\bin\Debug\Try.__.__.CATCH.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\bin\Debug\Try.__.__.CATCH.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\obj\x86\Debug\Try.__.__.CATCH.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\obj\x86\Debug\Try.__.__.CATCH.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\obj\x86\Debug\Try...CATCH.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\obj\x86\Debug\Try.__.__.CATCH.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\obj\x86\Debug\Try.__.__.CATCH.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Try...CATCH\obj\x86\Debug\Try.__.__.CATCH.pdb

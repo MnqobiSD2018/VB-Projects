@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\bin\Debug\Directory file.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\bin\Debug\Directory file.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\bin\Debug\Directory file.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\obj\x86\Debug\Directory_file.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\obj\x86\Debug\Directory_file.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\obj\x86\Debug\Directory file.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\obj\x86\Debug\Directory file.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\obj\x86\Debug\Directory file.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Directory file\obj\x86\Debug\Directory file.pdb
