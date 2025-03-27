@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\bin\Debug\MyMenue.exe
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\bin\Debug\MyMenue.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\bin\Debug\MyMenue.xml
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\obj\x86\Debug\MyMenue.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\obj\x86\Debug\MyMenue.exe
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\obj\x86\Debug\MyMenue.xml
+C:\Users\admin\documents\visual studio 2010\Projects\MyMenue\MyMenue\obj\x86\Debug\MyMenue.pdb

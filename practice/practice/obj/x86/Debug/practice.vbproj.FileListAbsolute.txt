@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\bin\Debug\practice.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\bin\Debug\practice.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\bin\Debug\practice.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\practice\practice\obj\x86\Debug\practice.Form3.resources
