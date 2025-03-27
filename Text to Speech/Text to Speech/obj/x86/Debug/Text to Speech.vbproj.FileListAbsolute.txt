@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\bin\Debug\Text to Speech.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\bin\Debug\Text to Speech.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\bin\Debug\Text to Speech.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\obj\x86\Debug\Text_to_Speech.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\obj\x86\Debug\Text_to_Speech.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\obj\x86\Debug\Text to Speech.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\obj\x86\Debug\Text to Speech.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\obj\x86\Debug\Text to Speech.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Text to Speech\obj\x86\Debug\Text to Speech.pdb
