@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\bin\Debug\My Select Case.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\bin\Debug\My Select Case.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\bin\Debug\My Select Case.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\obj\x86\Debug\My_Select_Case.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\obj\x86\Debug\My_Select_Case.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\obj\x86\Debug\My Select Case.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\obj\x86\Debug\My Select Case.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\obj\x86\Debug\My Select Case.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\My Select Case\My Select Case\obj\x86\Debug\My Select Case.pdb

@@ -1,0 +1,12 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\bin\Debug\My Text Box Sub.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\bin\Debug\My Text Box Sub.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\bin\Debug\My Text Box Sub.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\obj\x86\Debug\My_Text_Box_Sub.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\obj\x86\Debug\My_Text_Box_Sub.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\obj\x86\Debug\My Text Box Sub.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\obj\x86\Debug\My Text Box Sub.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\obj\x86\Debug\My Text Box Sub.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Text Box Sub\obj\x86\Debug\My Text Box Sub.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\My Text Box Sub\My Text Box Sub\obj\x86\Debug\My Text Box Sub.exe
+C:\Users\admin\documents\visual studio 2010\Projects\My Text Box Sub\My Text Box Sub\obj\x86\Debug\My Text Box Sub.xml
+C:\Users\admin\documents\visual studio 2010\Projects\My Text Box Sub\My Text Box Sub\obj\x86\Debug\My Text Box Sub.pdb

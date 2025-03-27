@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\bin\Debug\My Framework Math.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\bin\Debug\My Framework Math.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\bin\Debug\My Framework Math.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\obj\x86\Debug\My_Framework_Math.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\obj\x86\Debug\My_Framework_Math.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\obj\x86\Debug\My Framework Math.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\obj\x86\Debug\My Framework Math.exe
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\obj\x86\Debug\My Framework Math.xml
+C:\Users\admin\AppData\Local\Temporary Projects\My Framework Math\obj\x86\Debug\My Framework Math.pdb
