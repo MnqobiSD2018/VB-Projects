@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\bin\Debug\practise 5.exe
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\bin\Debug\practise 5.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\bin\Debug\practise 5.xml
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\obj\x86\Debug\practise_5.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\obj\x86\Debug\practise_5.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\obj\x86\Debug\practise 5.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\obj\x86\Debug\practise 5.exe
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\obj\x86\Debug\practise 5.xml
+C:\Users\admin\AppData\Local\Temporary Projects\practise 5\obj\x86\Debug\practise 5.pdb
