@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\bin\Debug\Constant Tester.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\bin\Debug\Constant Tester.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\bin\Debug\Constant Tester.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\obj\x86\Debug\Constant_Tester.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\obj\x86\Debug\Constant_Tester.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\obj\x86\Debug\Constant Tester.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\obj\x86\Debug\Constant Tester.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\obj\x86\Debug\Constant Tester.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Constant Tester\obj\x86\Debug\Constant Tester.pdb
