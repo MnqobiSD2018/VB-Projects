@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\bin\Debug\inputbox example.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\bin\Debug\inputbox example.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\bin\Debug\inputbox example.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\obj\x86\Debug\inputbox example.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\obj\x86\Debug\inputbox example.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\obj\x86\Debug\inputbox example.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\inputbox example\inputbox example\obj\x86\Debug\inputbox example.pdb

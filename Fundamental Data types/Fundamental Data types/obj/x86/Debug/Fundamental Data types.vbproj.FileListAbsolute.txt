@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\bin\Debug\Fundamental Data types.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\bin\Debug\Fundamental Data types.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\bin\Debug\Fundamental Data types.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\obj\x86\Debug\Fundamental_Data_types.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\obj\x86\Debug\Fundamental_Data_types.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\obj\x86\Debug\Fundamental Data types.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\obj\x86\Debug\Fundamental Data types.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\obj\x86\Debug\Fundamental Data types.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Fundamental Data types\obj\x86\Debug\Fundamental Data types.pdb
